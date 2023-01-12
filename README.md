@@ -1,4 +1,4 @@
-![Cahzzm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cahzzm&show_icons=true&theme=cobalt)
+[![Christian's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Cahzzm&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hi, I'm Christian 👋
 ***
