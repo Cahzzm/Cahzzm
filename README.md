@@ -3,6 +3,7 @@
 ## Hi, I'm Christian 👋
 ***
 
+
 I'm a passionate software engineer proficient in JavaScript, HTML, CSS, Sequelize, and more. I have a love for tackling and solving difficult problems. Always looking for new opportunities to meet new people and sharpen my skills.
 
 - 🖥️Graduated from App Academy 01/2023
