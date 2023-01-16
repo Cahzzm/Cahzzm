@@ -10,6 +10,7 @@ I'm a passionate software engineer proficient in JavaScript, HTML, CSS, Sequeliz
 - 📧Reach me at infinitespace20@gmail.com
 - Find me on [Linkedin](https://www.linkedin.com/in/christian-short-7697a0239/)
 - Find me on [AngelList](https://angel.co/u/christian-tyler-short-1)
+- My portfolio page https://cahzzm.github.io
 
 ### Technologies 
 
